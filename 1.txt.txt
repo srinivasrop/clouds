@@ -1,0 +1,170 @@
+Hello,
+
+ 
+
+Greetings from Ampcus,
+
+ 
+
+Ampcus Tech Pvt. Ltd. Head quarter is located at Delhi and operational unit based at is at Nashik. We are in IT service industry from last 5 years progressing with Team Acquisition, Offshore outsourcing, IT – Business solutions and WEB – Mobile solutions, design development and marketing. We have reputed commercial & federal clients.
+
+ 
+
+Role: Software Engineering - Software Engineer-Other - Advanced
+
+Type: Full time with  Ampcus (www.ampcus.com)
+
+Job ID : Position ID: 255809-1
+
+Industry: Finance/Banking
+
+Salary: Open for Discussion
+
+Location : - Hyderabad
+
+ 
+
+Job Description:
+
+Expert in at least one technology and design technique as well as experience working across large environments with multiple operating systems/infrastructure for large-scale programs (e.g., Expert Engineers) starting to be firm-wide resources working on projects across JPMC
+§ Is multi-skilled with expertise across software development lifecycle and toolset
+§ May be recognized as a leader in Agile and cultivating teams working in Agile frameworks
+§ Sought out as coach for at least one technical skill
+§ Strong understanding of techniques such as Continuous Integration, Continuous Delivery, Test Driven Development, Cloud Development, resiliency, security
+§ Stays abreast of cutting edge technologies/trends and uses experience to influence application of those technologies/trends to support the business; may give speeches and outside the firm, writes articles
+
+ 
+
+Category
+
+Name
+
+Required
+
+Importance
+
+Level
+
+Last Used
+
+Experience
+
+Programming Languages
+
+Scripting
+
+Yes
+
+5
+
+Protocols
+
+HTML
+
+Yes
+
+7
+
+Protocols
+
+Java
+
+Yes
+
+1
+
+Protocols
+
+JavaScript
+
+Yes
+
+5
+
+Specialties
+
+Automation Testing
+
+Yes
+
+1
+
+ 
+
+ 
+
+The Release Engineer Job function works collaboratively with all participants in software development projects and is supportive of developers and testers as they set up their build dev/test environments.
+
+ 
+
+This position also works with IT management to improve the software engineering processes and practices associated with continuously building, deploying, and updating software and environments.
+
+ 
+
+Role and Responsibilities
+
+·         Should have at least 3 year of scripting experience
+
+·         Should have good automation skills
+
+·         Should have knowledge in HTML, JavaScript any programming language.
+
+·         Good understanding of Agile
+
+·         ITIL Knowledge and Experience
+
+·         Assist in managing projects and interdependencies to ensure milestone adherence to ensure the integrity of the release can be measured.
+
+·         Manage risks and resolves issues that affect release scope, schedule and quality
+
+·         Coordinate release content and effort based on the service request backlog, pending service requests, third party applications, or operating system updates
+
+·         Communicate all key project plans, commitments, and changes including requirements, QA plans, schedule, and scope changes
+
+·         Manage relationships and coordinate work between different teams at different locations
+
+·         Conduct Release Readiness reviews, Milestone Reviews, and Business Go/No-Go reviews
+
+·         Produce Deployment, Run Books and Implementation Plans
+
+·         Communicate release details and schedules to the Business as required
+
+·         Negotiate, plan and manage all release activities
+
+·         Work with release engineers to understand impacts of branches and code merges
+
+·         Maintains the release schedule for all core services and ensure alignment across key partners and vendors.
+
+·         Continually work towards making improvements in the release process
+
+·         Lead and co-ordinate the Go-Live activities including the execution of the deployment Plans and checklists.
+
+·         Develops scripts and automation tools used to build, integrate, and deploy software releases to various platforms
+
+·         Participate in CAB meetings to discuss release scope and/or roadblocks
+
+·         Maintains a release repository and manages key information such as build and release procedures, dependencies, and notification lists
+
+·         Researches new software development and configuration management methodologies and technologies and analyzes their application to current configuration management needs
+
+ 
+
+Note: Please go through the JD and revert with 2 professional references (Name, Contact Number and Email Id)and 1 Government Id proof.
+
+Also Please send your updated resume with appropriate experience mentioned in JD
+
+ 
+
+ 
+
+Regards,
+Shamli Shegaonkar
+Talent Acquisition Specialist
+Ampcus Tech Pvt. Ltd.
+5th Floor, RV Plaza
+Plot No. - 8, SBI Colony
+Mumbai Naka,
+Nashik – 422 001 
+Phone No. +91 8459998291
+Fax No. (022) 66459324
+Email ID : shamli.shegaonkar@ampcus.com
